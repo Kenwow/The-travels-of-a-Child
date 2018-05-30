@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 68d82c585c8fa4d5abc5a83fbf9adcdf
+timeCreated: 1514245229
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fog: {instanceID: 0}
+  - monsterN: {fileID: 1283952395625524, guid: 3ab41dca9bd454b41ac24d6a549253b6, type: 2}
+  - monsterP: {fileID: 1585650788871160, guid: 83ee8753ad6474afa99abfd21292d5fd, type: 2}
+  - monsterF: {fileID: 1101429249553558, guid: f85469eaf297c4b799cb791be066bace, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
